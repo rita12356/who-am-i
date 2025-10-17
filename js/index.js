@@ -1,3 +1,4 @@
+// контайнер картинки
 let imageContainer = document.querySelector(`.image-container`);
 
 
