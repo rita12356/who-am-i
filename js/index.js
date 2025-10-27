@@ -4,7 +4,7 @@ let imageContainer = document.querySelector(`.image-container`);
 
 for(let i = 1; i <= 5; i++) {
     imageContainer.innerHTML += `
-    <img class="image" src="assets/${i}.png">
+    <img class="image" src="assets/${i}.png" alt="Картинки">
      `;
     
      
